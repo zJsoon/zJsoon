@@ -1,16 +1,32 @@
-### Hi there 👋
+<h3 align = 'center'>Welcome to my GitHub, I'm zJson</h3>
 
-<!--
-**zJsoon/zJsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+```md
+📚 Software Engineering Student at the University of Deusto
+📂 Learning... Python, JS & C
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+Discord Profile
+```
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/471338797003702283)](https://discord.com/users/471338797003702283)
+
+<hr>
+
+### My profile statistics!
+
+![zJsoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJsoon&show_icons=true&theme=dark)
+
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=zJsoon&show_icons=true&theme=dark&layout=compact)
+
+<hr>
+
+### App and preferred languages!
+
+<img align = 'left' alt = 'Firefox' src = 'https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'/>
+<img align = 'left' alt = 'Sublime' src = 'https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important'/>
+<img align = 'left' alt = 'Emacs' src = 'https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white'/>
+<img align = 'left' alt = 'Python' src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
+<img alt = 'JavaScript' src = 'https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
