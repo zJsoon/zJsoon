@@ -21,7 +21,7 @@
 
 ### App and preferred languages!
 
-<img align = 'left' alt = 'Firefox' src = 'https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'/>
+<img align = 'left' alt = 'Firefox' href = 'https://zjson.dev/contact' src = 'https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'/>
 <img align = 'left' alt = 'Sublime' src = 'https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important'/>
 <img align = 'left' alt = 'Emacs' src = 'https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white'/>
 <img align = 'left' alt = 'Python' src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
