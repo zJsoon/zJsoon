@@ -7,11 +7,7 @@
 📂 Learning... Python, JS & C
 ```
 
-```diff
-Discord Profile
-```
-
-![[Discord Presence](https://lanyard-profile-readme.vercel.app/api/471338797003702283)](https://discord.com/users/471338797003702283)
+[Contact Me!](https://zjson.dev/contact)
 
 <hr>
 
