@@ -2,7 +2,7 @@
 
 ```md
 📚 Software Engineering Student at the University of Deusto
-📂 Learning... Python, JS & C
+📂 Learning... Python, JS, JAVA & C
 ```
 <hr>
 
