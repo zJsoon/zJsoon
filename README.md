@@ -20,7 +20,6 @@
 
 ![zJsoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJsoon&show_icons=true&theme=dark)
 
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=zJsoon&show_icons=true&theme=dark&layout=compact)
 
 <hr>
 
