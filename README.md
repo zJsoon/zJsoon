@@ -2,7 +2,8 @@
 
 ```md
 📚 Software Engineering Student at the University of Deusto
-📂 Learning... Python, JAVA, C & JS
+📂 Learned: Python JS (discord.js)
+📂 Learning... JAVA, C, C# & JS
 ```
 <hr>
 
